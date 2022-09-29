@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgba(14, 8, 8, 0.753);
+}
+.logo_pagina{
+    color: #D40303;
+    
+}
+.navbar-brand{
+    font-family: cursive;
+    color: #D40303;
+    font-size: 14;
+}
+.filmes :hover{-webkit-tranform: scale(1.5)
+
+    transform: scale(1.5)
+    padding: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    
+}
+.filmes2 :hover{-webkit-tranform: scale(1.5)
+
+    transform: scale(1.5)
+    padding: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.container{
+    flex-direction: row;
+}
+.nav-link{
+    color: aliceblue;
+}
+p{
+    font-family: cursive;
+    color: aliceblue;
+    font-size: 25;
+}
+.Séries :hover{-webkit-tranform: scale(1.5)
+
+    transform: scale(1.5)
+    padding: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+.Séries2 :hover{-webkit-tranform: scale(1.5)
+
+    transform: scale(1.5)
+    padding: 20px;
+    transition: all 0.5s;
+    cursor: pointer;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
